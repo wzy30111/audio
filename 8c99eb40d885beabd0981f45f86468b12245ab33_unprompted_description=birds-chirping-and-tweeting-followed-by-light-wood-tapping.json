@@ -1,0 +1,23 @@
+{
+  "id": "8c99eb40d885beabd0981f45f86468b12245ab33_unprompted_description=birds-chirping-and-tweeting-followed-by-light-wood-tapping",
+  "path": "/apdcephfs_cq10/share_1603164/user/zhenyuzwang/to_zhenyu/audiogen_chenx/model_medium_AudioSet_AudioCaps/xps/6aa2af9d/samples/100/8c99eb40d885beabd0981f45f86468b12245ab33_unprompted_description=birds-chirping-and-tweeting-followed-by-light-wood-tapping.wav",
+  "epoch": 100,
+  "duration": 10.0,
+  "conditioning": {
+    "description": "birds chirping and tweeting followed by light wood tapping"
+  },
+  "prompt": null,
+  "reference": {
+    "id": "483b4e07f441c8529b39d44d8e97e191e47feb5e",
+    "path": "/apdcephfs_cq10/share_1603164/user/zhenyuzwang/to_zhenyu/audiogen_chenx/model_medium_AudioSet_AudioCaps/xps/6aa2af9d/samples/reference/483b4e07f441c8529b39d44d8e97e191e47feb5e.wav",
+    "duration": 10.0
+  },
+  "generation_args": {
+    "classifier_free_guidance_training_dropout": 0.1,
+    "classifier_free_guidance_inference_coef": 3.0,
+    "use_sampling": true,
+    "temp": 1.0,
+    "top_k": 250,
+    "top_p": 0.0
+  }
+}
